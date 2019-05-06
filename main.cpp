@@ -1,6 +1,7 @@
 #include <cassert>
 #include <iostream>
 #include <iomanip>
+#include <iterator>
 
 #include <boost/units/systems/si/prefixes.hpp>
 #include <boost/units/systems/si/length.hpp>
